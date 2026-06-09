@@ -7,7 +7,7 @@ export default defineConfig({
   // Thêm cấu hình cấu hình loader dưới đây
   esbuild: {
     loader: "jsx",
-    include: /src\/.*\.js$/,
+    include: /src\/.*\.jsx?$/,
     exclude: [],
   },
   server: {
