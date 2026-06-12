@@ -64,8 +64,8 @@ export default function GridSection() {
   return (
     <section id="projets" className="w-full py-24 md:py-36 px-6 bg-white">
       {/* Tiêu đề mục trên nền trắng */}
-      <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-8 mb-20 md:mb-28 items-start">
-        <h2 className="font-serif-luxury text-3xl md:text-5xl font-light tracking-wide md:col-span-2 max-w-2xl leading-snug text-neutral-950">
+      <div className="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-8 mb-20 md:mb-28 items-start">
+        <h2 className="text-3xl md:text-5xl font-light-bold tracking-wide md:col-span-2 max-w-2xl leading-snug text-neutral-950">
           PROJETS <br />
           ACADÉMIQUES &{" "}
           <span className="italic text-[#A68253]">PROFESSIONNELS</span>
