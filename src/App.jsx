@@ -6,12 +6,10 @@ import ContactSection from "./sections/ContactSection";
 
 export default function App() {
   return (
-    <div className="bg-[#050505] selection:bg-[#C5A880] selection:text-black">
+    <div className="min-h-screen bg-white text-neutral-900 selection:bg-neutral-900 selection:text-white">
       <Header />
-      <main>
-        <HeroSection />
-        <GridSection />
-      </main>
+      <HeroSection />
+      <GridSection />
       <ContactSection />
     </div>
   );

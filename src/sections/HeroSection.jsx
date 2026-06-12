@@ -2,32 +2,25 @@ import React from "react";
 
 export default function HeroSection() {
   return (
-    <section className="relative h-screen w-full flex items-end justify-start px-6 md:px-16 pb-24 overflow-hidden">
-      <div className="absolute inset-0 z-0">
-        {/* Bạn có thể thay link ảnh đại diện lookbook của bạn vào đây */}
-        <img
-          src="https://images.unsplash.com/photo-1512436991641-6745cdb1723f?auto=format&fit=crop&w=1920&q=80"
-          alt="Gia Laurent High Fashion Cover"
-          className="w-full h-full object-cover object-center brightness-[0.4] scale-100"
-        />
-        <div className="absolute inset-0 bg-gradient-to-t from-[#050505] via-transparent to-transparent" />
-      </div>
+    <section className="w-full bg-white pt-24 pb-12 px-6">
+      {/* Khung chứa 2 ảnh bằng nhau, tràn đều ra 2 bên */}
+      <div className="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-4 md:gap-6">
+        {/* Tấm bên trái: Quần Denim mác G.L.T.R */}
+        <div className="w-full aspect-[3/4] bg-neutral-50 overflow-hidden">
+          <img
+            src="https://images.unsplash.com/photo-1490481651871-ab68de25d43d?auto=format&fit=crop&w=1000&q=80"
+            alt="Jean Paul Gaultier - Denim"
+            className="w-full h-full object-cover smooth-transition hover:scale-101 duration-700"
+          />
+        </div>
 
-      <div className="relative z-10 max-w-4xl">
-        <span className="text-[10px] uppercase tracking-[0.5em] text-[#C5A880] block mb-4">
-          CHASING VISUAL BREAKTHROUGHS
-        </span>
-        <h1 className="font-serif-luxury text-4xl md:text-7xl font-light tracking-wide leading-[1.15] mb-8 text-white">
-          Création et transmission <br />
-          de <span className="italic">contenus de mode</span>
-        </h1>
-        <div className="flex items-center space-x-6">
-          <a
-            href="#projets"
-            className="text-[10px] uppercase tracking-[0.3em] border-b border-white/40 pb-2 hover:border-[#C5A880] text-neutral-200 hover:text-white smooth-transition"
-          >
-            Découvrir Projets
-          </a>
+        {/* Tấm bên phải: Áo Vest Sọc */}
+        <div className="w-full aspect-[3/4] bg-neutral-50 overflow-hidden">
+          <img
+            src="https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=1200&q=80"
+            alt="Jean Paul Gaultier - Suit"
+            className="w-full h-full object-cover smooth-transition hover:scale-101 duration-700"
+          />
         </div>
       </div>
     </section>
