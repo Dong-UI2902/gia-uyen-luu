@@ -4,59 +4,66 @@ import CollectionCard from "../components/CollectionCard";
 const myCanvaProjects = [
   {
     title: "Steven Passaro",
-    year: "Stagiaire",
-    category: "RÉSEAUX SOCIAUX",
+    year: "Réseaux Sociaux Stagiaire",
+    category: "GIA",
     image:
-      "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?auto=format&fit=crop&w=1000&q=80",
+      "https://lh3.googleusercontent.com/d/1N6BYbWw4G_wMn85NmubbuOpI437SxLJ9",
+    href: "https://drive.google.com/file/d/1f_nmlSh5UXScK3DjWaqE3F07kO9E-ctd/view?usp=drive_link",
   },
   {
     title: "Jean Paul Gaultier",
-    year: "Project",
-    category: "RÉSEAUX SOCIAUX",
+    year: "Réseaux Sociaux Project",
+    category: "GIA",
     image:
-      "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=1200&q=80",
+      "https://lh3.googleusercontent.com/d/19aUEv44EXLGxU8OC6Rt8PQl3NwKWgmM2",
+    href: "https://drive.google.com/file/d/1f_nmlSh5UXScK3DjWaqE3F07kO9E-ctd/view?usp=drive_link",
   },
   {
     title: "Louis Vuitton",
-    year: "Mr. Thomas Dencausse",
-    category: "INTERNATIONAL BUSINESS",
+    year: "International Business",
+    category: "GIA",
     image:
-      "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=1200&q=80",
+      "https://lh3.googleusercontent.com/d/1TVBT2hVPqOgWpanpj7D2_khx00WNa8JD",
+    href: "https://drive.google.com/file/d/1M-md_cLbTntbV7GWtonvVyliWR_R7psh/view?usp=drive_link",
+  },
+  {
+    title: "A-COLD-WALL*",
+    year: "Principle of Marketing ",
+    category: "GIA",
+    image:
+      "https://lh3.googleusercontent.com/d/145WbffzegeQkEjceU20RCAo8lCHbjvls",
+    href: "https://drive.google.com/file/d/1B-DP1IfgCeAY1LFBeJskfzQpXSx1zx3q/view?usp=drive_link",
+  },
+  {
+    title: "LOEWE",
+    year: "leather & accessories",
+    category: "GROUP PROJECT",
+    image:
+      "https://lh3.googleusercontent.com/d/1ZNJYXVSvq6zbMtH2a4tu_vLpZSXHndJq",
+    href: "https://drive.google.com/file/d/1cQuFIXCdRRVXu69gEyATxRkGloeOZ6GE/view?usp=drive_link",
+  },
+  {
+    title: "KHRISTMAS",
+    year: "visual merchandise",
+    category: "GROUP PROJECT",
+    image:
+      "https://lh3.googleusercontent.com/d/1KoNiwdt_ddOEN27bd9uCxxr3w62c2qmV",
+    href: "https://drive.google.com/file/d/1j7tXapYvJgpLqIUsTY2FuFj20lOd8LXi/view?usp=drive_link",
+  },
+  {
+    title: "SKIMS",
+    year: "Marketing strategy",
+    category: "GROUP PROJECT",
+    image:
+      "https://lh3.googleusercontent.com/d/1gvNIAWc_d8C3YNnv1690q27USo6oXFC2",
+    href: "https://drive.google.com/file/d/1aJl_cFoRamo4yc5tyoxpNoiCT3OcdF00/view?usp=drive_link",
   },
   {
     title: "A-COLD-WALL*",
     year: "Mme Chansel Anne Laure",
     category: "PRINCIPLE OF MARKETING",
     image:
-      "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=1000&q=80",
-  },
-  {
-    title: "Louis Vuitton",
-    year: "Mr. Thomas Dencausse",
-    category: "INTERNATIONAL BUSINESS",
-    image:
-      "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=1200&q=80",
-  },
-  {
-    title: "A-COLD-WALL",
-    year: "Mme Chansel Anne Laure",
-    category: "PRINCIPLE OF MARKETING",
-    image:
-      "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=1000&q=80",
-  },
-  {
-    title: "Louis Vuitton",
-    year: "Mr. Thomas Dencausse",
-    category: "INTERNATIONAL BUSINESS",
-    image:
-      "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=1200&q=80",
-  },
-  {
-    title: "A-COLD-WALL*",
-    year: "Mme Chansel Anne Laure",
-    category: "PRINCIPLE OF MARKETING",
-    image:
-      "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=1000&q=80",
+      "https://lh3.googleusercontent.com/d/145WbffzegeQkEjceU20RCAo8lCHbjvls",
   },
 ];
 

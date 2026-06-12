@@ -15,12 +15,12 @@ export default function CollectionCard({ image, title, year, category }) {
 
       {/* Phần thông tin chữ nền trắng */}
       <div className="mt-5  border-b border-neutral-200 pb-4">
-        <div className="flex justify-between items-baseline">
-          <span className="text-[9px] uppercase tracking-[0.25em] text-[#A68253] block mb-1 font-medium">
-            {category}
-          </span>
-          <span className="font-serif-luxury italic text-neutral-500 max-w-[180px] text-right truncate text-[10px]">
+        <div className="flex justify-between items-baseline px-1">
+          <span className="text-[10px] uppercase tracking-[0.25em] text-[#A68253] block mb-1 font-medium">
             {year}
+          </span>
+          <span className="text-neutral-500 max-w-[180px] text-right truncate text-[10px]">
+            {category}
           </span>
         </div>
         <h3 className="font-serif-luxury text-xl md:text-2xl font-light tracking-wide text-neutral-900 group-hover:text-neutral-600 smooth-transition">
