@@ -8,7 +8,7 @@ export default function HeroSection() {
         {/* Tấm bên trái: Quần Denim mác G.L.T.R */}
         <div className="w-full aspect-[3/4] bg-neutral-50 overflow-hidden">
           <img
-            src="https://images.unsplash.com/photo-1490481651871-ab68de25d43d?auto=format&fit=crop&w=1000&q=80"
+            src="https://lh3.googleusercontent.com/d/17uN9BWhrmlm7QTvMl0-3esif79fik9A8"
             alt="Jean Paul Gaultier - Denim"
             className="w-full h-full object-cover smooth-transition hover:scale-101 duration-700"
           />
@@ -17,7 +17,7 @@ export default function HeroSection() {
         {/* Tấm bên phải: Áo Vest Sọc */}
         <div className="w-full aspect-[3/4] bg-neutral-50 overflow-hidden">
           <img
-            src="https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=1200&q=80"
+            src="https://lh3.googleusercontent.com/d/1fnU4V8hlbQ7HV1vYNBRMxwCM-Oc_-_Q7"
             alt="Jean Paul Gaultier - Suit"
             className="w-full h-full object-cover smooth-transition hover:scale-101 duration-700"
           />

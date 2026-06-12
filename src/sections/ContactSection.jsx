@@ -6,8 +6,8 @@ export default function ContactSection() {
       id="about-contact"
       className="w-full bg-white pt-24 pb-16 px-6 md:px-16 border-t border-neutral-100"
     >
-      <div className="max-w-7xl mx-auto flex flex-col justify-between min-h-[50vh]">
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-16 items-start mb-16">
+      <div className="max-w-6xl mx-auto flex flex-col justify-between min-h-[50vh]">
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-40 items-start mb-16">
           {/* Bên trái: Text intro tiếng Pháp */}
           <div className="space-y-6 max-w-lg text-neutral-800 text-sm leading-relaxed tracking-wide">
             <span className="text-[10px] uppercase tracking-[0.4em] text-[#A68253] block mb-2 font-medium">
@@ -25,7 +25,7 @@ export default function ContactSection() {
           </div>
 
           {/* Bên phải: Nút Résumé khối đen sang trọng + Thông tin liên hệ */}
-          <div className="md:pl-12 space-y-8 flex flex-col items-start w-full">
+          <div class="md:pl-12 space-y-8 flex flex-col items-start w-full md:w-auto md:justify-self-end">
             <div className="w-full max-w-xs">
               <button className="w-full bg-neutral-950 text-white text-[10px] uppercase tracking-[0.3em] font-medium py-4 hover:bg-neutral-800 smooth-transition shadow-sm">
                 RÉSUMÉ / CV
