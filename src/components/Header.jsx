@@ -6,8 +6,8 @@ export default function Header() {
       {/* Sử dụng grid 3 cột bằng nhau để ép phần giữa luôn là tâm đối xứng tuyệt đối */}
       <div className="w-full grid grid-cols-2 md:grid-cols-3 items-center">
         {/* CỘT 1: PORTFOLIO (Ẩn trên mobile để text không đè nhau, hiện trên PC) */}
-        <div className="text-neutral-900 hidden md:block text-[10px] uppercase tracking-[0.4em] text-neutral-400">
-          PORTFOLIO
+        <div className="text-neutral-900 hidden md:block text-[10px] tracking-[0.3em] italic font-serif-luxury font-semibold uppercase">
+          Portfolio
         </div>
 
         {/* CỘT 2: LOGO CHÍNH - Luôn căn giữa tuyệt đối */}
@@ -16,7 +16,7 @@ export default function Header() {
             href="#"
             className="font-serif-luxury text-xl md:text-2xl tracking-[0.25em] uppercase font-light"
           >
-            GIA LAURENT
+            GIA LR
           </a>
         </div>
 
