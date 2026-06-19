@@ -7,7 +7,7 @@ const myCanvaProjects = [
     year: "Réseaux Sociaux Stagiaire",
     category: "GIA",
     image:
-      "https://lh3.googleusercontent.com/d/1N6BYbWw4G_wMn85NmubbuOpI437SxLJ9",
+      "https://lh3.googleusercontent.com/d/1k_LnpzxOjb8CUn8F6OIFWfzbgEDIZISA",
     href: "https://drive.google.com/file/d/1f_nmlSh5UXScK3DjWaqE3F07kO9E-ctd/view?usp=drive_link",
   },
   {
@@ -15,7 +15,7 @@ const myCanvaProjects = [
     year: "Réseaux Sociaux Project",
     category: "GIA",
     image:
-      "https://lh3.googleusercontent.com/d/19aUEv44EXLGxU8OC6Rt8PQl3NwKWgmM2",
+      "https://lh3.googleusercontent.com/d/1WvGBYNt9jWPj7wgrXs53vPhUJlsctG5e",
     href: "https://drive.google.com/file/d/1Anm8O6QqKa6RKgnkZSktke1E8d2qq_G0/view",
   },
   {
@@ -23,7 +23,7 @@ const myCanvaProjects = [
     year: "International Business",
     category: "GIA",
     image:
-      "https://lh3.googleusercontent.com/d/1TVBT2hVPqOgWpanpj7D2_khx00WNa8JD",
+      "https://lh3.googleusercontent.com/d/1gkpYklkNTsYmhxWIEgVWwFsWl4JWS-Hs",
     href: "https://drive.google.com/file/d/1M-md_cLbTntbV7GWtonvVyliWR_R7psh/view?usp=drive_link",
   },
   {
@@ -31,7 +31,7 @@ const myCanvaProjects = [
     year: "Principle of Marketing ",
     category: "GIA",
     image:
-      "https://lh3.googleusercontent.com/d/145WbffzegeQkEjceU20RCAo8lCHbjvls",
+      "https://lh3.googleusercontent.com/d/11byZX_j7Yod0g6l_jx2MGa6wPiUeP0u0",
     href: "https://drive.google.com/file/d/1B-DP1IfgCeAY1LFBeJskfzQpXSx1zx3q/view?usp=drive_link",
   },
   {
@@ -39,7 +39,7 @@ const myCanvaProjects = [
     year: "leather & accessories",
     category: "GROUP PROJECT",
     image:
-      "https://lh3.googleusercontent.com/d/1ZNJYXVSvq6zbMtH2a4tu_vLpZSXHndJq",
+      "https://lh3.googleusercontent.com/d/1y8o02vPmtdfBALqfPno5uc8c-HtTCCtO",
     href: "https://drive.google.com/file/d/1cQuFIXCdRRVXu69gEyATxRkGloeOZ6GE/view?usp=drive_link",
   },
   {
@@ -47,7 +47,7 @@ const myCanvaProjects = [
     year: "visual merchandise",
     category: "GROUP PROJECT",
     image:
-      "https://lh3.googleusercontent.com/d/1KoNiwdt_ddOEN27bd9uCxxr3w62c2qmV",
+      "https://lh3.googleusercontent.com/d/1jGKPAHwOwstNKLDhlTh9IJNC0c-_gfDc",
     href: "https://drive.google.com/file/d/1j7tXapYvJgpLqIUsTY2FuFj20lOd8LXi/view?usp=drive_link",
   },
   {
@@ -55,7 +55,7 @@ const myCanvaProjects = [
     year: "Marketing strategy",
     category: "GROUP PROJECT",
     image:
-      "https://lh3.googleusercontent.com/d/1gvNIAWc_d8C3YNnv1690q27USo6oXFC2",
+      "https://lh3.googleusercontent.com/d/1bFgvJooAv38glwRuoxlfaXt5F5Zx1MTg",
     href: "https://drive.google.com/file/d/1aJl_cFoRamo4yc5tyoxpNoiCT3OcdF00/view?usp=drive_link",
   },
   {
@@ -63,7 +63,7 @@ const myCanvaProjects = [
     year: "Mme Chansel Anne Laure",
     category: "PRINCIPLE OF MARKETING",
     image:
-      "https://lh3.googleusercontent.com/d/145WbffzegeQkEjceU20RCAo8lCHbjvls",
+      "https://lh3.googleusercontent.com/d/11H-xdZajpZCSjUfxx9cPzkM0BtVg_LNm",
   },
 ];
 

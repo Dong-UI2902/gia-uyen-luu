@@ -64,7 +64,7 @@ export default function ContactSection() {
 
         {/* Chân trang */}
         <div className="pt-12 border-t border-neutral-100 flex flex-col md:flex-row justify-between items-center text-[9px] text-neutral-400 tracking-[0.3em] uppercase space-y-4 md:space-y-0">
-          <div>© 2026 GIA LAURENT. All rights reserved.</div>
+          <div>© 2026 GIA LR. All rights reserved.</div>
           <div className="flex space-x-8">
             <a
               href="https://www.instagram.com/g.rougee"
@@ -74,7 +74,7 @@ export default function ContactSection() {
               Instagram
             </a>
             <a
-              href="linkedin.com/in/gia14"
+              href="https://www.linkedin.com/in/gia14/?locale=fr"
               target="_blank"
               className="hover:text-black smooth-transition"
             >
