@@ -16,7 +16,7 @@ const myCanvaProjects = [
     category: "GIA",
     image:
       "https://lh3.googleusercontent.com/d/19aUEv44EXLGxU8OC6Rt8PQl3NwKWgmM2",
-    href: "https://drive.google.com/file/d/1f_nmlSh5UXScK3DjWaqE3F07kO9E-ctd/view?usp=drive_link",
+    href: "https://drive.google.com/file/d/1Anm8O6QqKa6RKgnkZSktke1E8d2qq_G0/view",
   },
   {
     title: "Louis Vuitton",
