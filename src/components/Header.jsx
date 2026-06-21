@@ -6,7 +6,7 @@ export default function Header() {
       {/* Sử dụng grid 3 cột bằng nhau để ép phần giữa luôn là tâm đối xứng tuyệt đối */}
       <div className="w-full grid grid-cols-2 md:grid-cols-3 items-center">
         {/* CỘT 1: PORTFOLIO (Ẩn trên mobile để text không đè nhau, hiện trên PC) */}
-        <div className="text-neutral-900 hidden md:block text-[10px] tracking-[0.3em] italic font-serif-luxury font-semibold uppercase">
+        <div className="text-neutral-900 hidden md:block text-[10px] tracking-[0.3em]   font-semibold uppercase">
           Portfolio
         </div>
 
@@ -26,19 +26,19 @@ export default function Header() {
           <nav className="hidden md:flex space-x-10 text-[10px] uppercase tracking-[0.3em] text-neutral-500">
             <a
               href="#"
-              className="hover:text-black smooth-transition italic font-serif-luxury text-neutral-900 font-semibold"
+              className="hover:text-black smooth-transition text-neutral-900 font-semibold"
             >
               Accueil
             </a>
             <a
               href="#projets"
-              className="hover:text-black smooth-transition italic font-serif-luxury text-neutral-900 font-semibold"
+              className="hover:text-black smooth-transition text-neutral-900 font-semibold"
             >
               Projets
             </a>
             <a
               href="#about-contact"
-              className="hover:text-black smooth-transition italic font-serif-luxury text-neutral-900 font-semibold"
+              className="hover:text-black smooth-transition  text-neutral-900 font-semibold"
             >
               Contact
             </a>
