@@ -19,6 +19,14 @@ const myCanvaProjects = [
     href: "https://drive.google.com/file/d/1Anm8O6QqKa6RKgnkZSktke1E8d2qq_G0/view",
   },
   {
+    title: "Sustainability in Luxury",
+    year: "Mme Chansel Anne Laure",
+    category: "PRINCIPLE OF MARKETING",
+    image:
+      "https://lh3.googleusercontent.com/d/1ykEGkcakp6YL4M-OZxkTGG8qp-_ql-ir",
+    href: "https://drive.google.com/file/d/1sc2AfU7kiFjfvOKBIC4udRk1nF17fS22/view?usp=drive_link",
+  },
+  {
     title: "Louis Vuitton",
     year: "International Business",
     category: "GIA",
@@ -57,13 +65,6 @@ const myCanvaProjects = [
     image:
       "https://lh3.googleusercontent.com/d/1bFgvJooAv38glwRuoxlfaXt5F5Zx1MTg",
     href: "https://drive.google.com/file/d/1aJl_cFoRamo4yc5tyoxpNoiCT3OcdF00/view?usp=drive_link",
-  },
-  {
-    title: "A-COLD-WALL*",
-    year: "Mme Chansel Anne Laure",
-    category: "PRINCIPLE OF MARKETING",
-    image:
-      "https://lh3.googleusercontent.com/d/11H-xdZajpZCSjUfxx9cPzkM0BtVg_LNm",
   },
 ];
 
